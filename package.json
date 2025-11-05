@@ -1,0 +1,16 @@
+{
+  "name": "convox-nodejs-example",
+  "version": "1.0.0",
+  "description": "Node.js example application for Convox",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
